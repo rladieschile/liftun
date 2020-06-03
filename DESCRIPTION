@@ -16,3 +16,5 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.0
 Imports:
     tibble
+URL: https://github.com/rladieschile/liftun
+BugReports: https://github.com/rladieschile/liftun/issues
