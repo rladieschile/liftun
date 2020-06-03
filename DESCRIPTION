@@ -7,7 +7,8 @@ Authors@R:
            role = c("aut", "cre"),
            email = "first.last@example.com",
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
+Description: Un paquete con datasets para practicar
+    limpieza de datos
 License: CC0
 Encoding: UTF-8
 LazyData: true
