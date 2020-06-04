@@ -18,3 +18,5 @@ Imports:
     tibble
 URL: https://github.com/rladieschile/liftun
 BugReports: https://github.com/rladieschile/liftun/issues
+Depends: 
+    R (>= 2.10)
