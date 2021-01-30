@@ -1,0 +1,21 @@
+---
+title: "Artículo de prueba"
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(liftun)
+```
+
+## Título
+
+Bla bla bla
+
+
+

@@ -1,20 +1,23 @@
 Package: liftun
-Title: What the Package Does (One Line, Title Case)
+Title: A Package with Datasets for Practice Data Wrangling
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Riva",
+           family = "Quiroga",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
+           email = "riva.quiroga@uc.cl",
+           comment = c(ORCID = "0000-0002-1147-4135"))
 Description: Un paquete con datasets para practicar
-    limpieza de datos
+    limpieza y transformación de datos.
 License: CC0
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 7.1.0
+RoxygenNote: 7.1.1
 Imports:
     tibble
-URL: https://github.com/rladieschile/liftun
+URL: https://rladieschile.github.io/liftun, https://github.com/rladieschile/liftun
 BugReports: https://github.com/rladieschile/liftun/issues
+Suggests: 
+    rmarkdown,
+    covr
